@@ -1,0 +1,6 @@
+/Users/chris/Dev/CSharp/NumberGuesser/NumberGuesser/NumberGuesser/bin/Debug/NumberGuesser.exe
+/Users/chris/Dev/CSharp/NumberGuesser/NumberGuesser/NumberGuesser/bin/Debug/NumberGuesser.pdb
+/Users/chris/Dev/CSharp/NumberGuesser/NumberGuesser/NumberGuesser/obj/Debug/NumberGuesser.csproj.AssemblyReference.cache
+/Users/chris/Dev/CSharp/NumberGuesser/NumberGuesser/NumberGuesser/obj/Debug/NumberGuesser.csproj.CoreCompileInputs.cache
+/Users/chris/Dev/CSharp/NumberGuesser/NumberGuesser/NumberGuesser/obj/Debug/NumberGuesser.exe
+/Users/chris/Dev/CSharp/NumberGuesser/NumberGuesser/NumberGuesser/obj/Debug/NumberGuesser.pdb
